@@ -1,2 +1,3 @@
 # Miniproject_LGDA
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c164742255f14c54ade22759cdaa8ce6)](https://app.codacy.com/app/gayathrisai96/Miniproject_LGDA?utm_source=github.com&utm_medium=referral&utm_content=gayathrisai96/Miniproject_LGDA&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c164742255f14c54ade22759cdaa8ce6)](https://app.codacy.com/app/gayathrisai96/Miniproject_LGDA?utm_source=github.com&utm_medium=referral&utm_content=gayathrisai96/Miniproject_LGDA&utm_campaign=Badge_Grade_Dashboard)
