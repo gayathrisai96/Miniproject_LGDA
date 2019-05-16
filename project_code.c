@@ -1,8 +1,8 @@
 //Header files 
 #include <stdio.h>
-//#include <avr/io.h>
-//#include <util/delay.h> 
-//#include <avr/interrupt.h>
+#include <avr/io.h>
+#include <util/delay.h> 
+#include <avr/interrupt.h>
 
 //macro
 #define set(PORT,BIT) PORT|=(1<<BIT)
